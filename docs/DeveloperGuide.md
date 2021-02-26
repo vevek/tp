@@ -296,7 +296,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 **MSS**
 
 1. User requests to find a person.
-2. CoLAB shows a list of persons that match user's query. 
+2. CoLAB shows a list of persons that match user's query.
 3. User requests to view more details about a specific person in the list.
 4. CoLAB shows more information about the person in the list.
 
@@ -304,7 +304,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 **Extensions**
 
-* 2a. The list of persons is empty. 
+* 2a. The list of persons is empty.
 
     Use case ends.
 
