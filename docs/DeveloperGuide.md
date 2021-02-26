@@ -286,9 +286,9 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 **Extensions**
 
 * 1a. The given arguments are invalid.
-  
+
     * 1a1. CoLAB shows an error message.
-    
+
         Use case resumes at step 1.
 
 #### UC2 - Find details of a specific person
@@ -299,13 +299,13 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 2. CoLAB shows a list of persons that match user's query. 
 3. User requests to view more details about a specific person in the list.
 4. CoLAB shows more information about the person in the list.
-    
+
     Use case ends.
 
 **Extensions**
 
 * 2a. The list of persons is empty. 
-    
+
     Use case ends.
 
 * 3a. The given index is invalid.
@@ -323,7 +323,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 2. CoLAB shows a list of persons.
 3. User requests to delete a specific person in the list.
 4. CoLAB deletes the person.
-   
+
     Use case ends.
 
 **Extensions**
@@ -335,7 +335,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 * 3a. The given index is invalid.
 
     * 3a1. CoLAB shows an error message.
-      
+
         Use case resumes at step 2.
 
 #### UC4 - Purge all entries from the app
@@ -369,11 +369,11 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 * 1a. The given modules are invalid
 
     * 1a1. CoLAB shows an error message.
-        
+
         Use case resumes at step 1.
 
 * 2a. The list of persons is empty.
-    
+
     Use case ends.
 
 #### UC6 - Adding or Modifying information about a person
